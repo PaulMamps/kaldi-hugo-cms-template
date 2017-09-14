@@ -1,14 +1,12 @@
 ---
-title: Our Coffee
+title: Lotto & Games
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: Lottery Games
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  PCSOLotto.Online is the ultimate spot for everyone who want to know how to play the PCSO lotto games...
+    Find out all about the many exciting lotto games offered by the PCSO...
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
